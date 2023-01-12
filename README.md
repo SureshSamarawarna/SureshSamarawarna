@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/sureshasanQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> &nbsp;
-<a href="patreon.com/user?u=86745688" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
+<a href="https://www.patreon.com/user?u=86745688" target="_blank"><img src="https://cloakandmeeple.files.wordpress.com/2017/06/become_a_patron_button3x.png?w=610" alt="Buy Me A Coffee" height="50px" ></a>
 </p>
 
 [SureshSamarawarna](https://github.com/SureshSamarawarna)
